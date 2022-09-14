@@ -22,4 +22,4 @@ Permet de créer un commit, une image des modifications
 git log
 Permet d'afficher les logs
 git restore<fichier>
-permet de resaurer un fichier à un niveau précédent 
+permet de resaurer un fichier à un niveau précédent
