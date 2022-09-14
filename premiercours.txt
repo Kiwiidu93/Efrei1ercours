@@ -1,1 +1,7 @@
 je suis un être un humain dans mon fichier premiercours.txt
+
+
+this is the fifth sentence inside premiercours.txt
+
+this is the six sentence inside premiercours.txt
+this is the seven sentence inside premiercours.txt
